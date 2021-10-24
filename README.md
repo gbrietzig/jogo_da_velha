@@ -17,8 +17,6 @@
 
 O jogo da velha sem bibliotecas foi um projeto solicitado pela Let's Code como trabalho final de seu curso Code Tank, um curso de introdução para os cursos de Cientista de Dados e desenvolvedor Full Stack.
 
-<a href="https://gbrietzig.github.io/curso-semana-discovery-1/">Clique para acessar o projeto</a>
-
 
 ## 🚀 Tecnologias
 
